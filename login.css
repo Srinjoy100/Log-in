@@ -25,6 +25,7 @@
     background: purple;
     text-align: center;
     color: black; /* Added color to text for visibility */
+    border-radius: 15px;
 }
 
 .form h1 {
